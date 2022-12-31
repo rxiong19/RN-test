@@ -7,7 +7,7 @@ function InputScreen({navigation}) {
     setInputText(enteredText);
   }
   function saveInput() {
-    if (inputText === '') {
+    if (inputText) {
       Alert.alert('Warning', 'Opps you cannot enter empty message!', [
         {text: 'OK, got it.'},
       ]);
