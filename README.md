@@ -4,8 +4,8 @@
 
 ## ios Display
 
-- ![ios](https://recordit.co/5CTaQzxf3j)
+- ![ios](http://g.recordit.co/5CTaQzxf3j.gif)
 
 ## Android Display
 
-- ![android](https://recordit.co/Rru26WSl7z)
+- ![android](http://g.recordit.co/Rru26WSl7z.gif)
