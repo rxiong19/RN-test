@@ -46,9 +46,8 @@ const styles = StyleSheet.create({
     padding: 8,
   },
   nextTabBox: {
-    margin: 8,
-    padding: 8,
-    backgroundColor: 'lightgrey',
+    margin: 16,
+    backgroundColor: 'lightgray',
   },
 });
 
